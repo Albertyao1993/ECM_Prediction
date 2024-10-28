@@ -304,6 +304,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data_preprocessing\Merged_data\002_verwaltung_with_holidays_indoor_person_counts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data_preprocessing\Processed_data\002_verwaltung_with_holidays_counrs_person.csv">
           <value>
             <Attribute>
